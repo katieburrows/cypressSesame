@@ -1,2 +1,2 @@
 # cypressSesame
-Personal project to implement automation strategies
+Personal project to demonstrate Cypress automation strategies using @djlarj's website with permission.
